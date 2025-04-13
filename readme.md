@@ -1,5 +1,7 @@
 # InsiderTweak
 
+![Screenshot of InsiderTweak](https://i.imgur.com/YTtU1to.png)
+
 ## Description
 
 **InsiderTweak** is a simple Windows Command Prompt script designed to enable access to the Windows Insider Program without requiring you to sign in with a Microsoft Account or submit any enrollment request. It is ideal for users who prefer not to leave personal data or go through the hassle of filling out a request—even if you already have a Microsoft Account.
