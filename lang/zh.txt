@@ -1,0 +1,16 @@
+TITLE=InsiderTweak
+WIN_VERSION_INCOMPATIBLE=该脚本仅兼容 Windows 10 v1809 及更高版本
+ADMIN_RIGHTS_REQUIRED=该脚本需要以管理员身份运行。
+OPTION_STOP=停止接收 Windows Insider 更新
+OPTION_QUIT=退出且不做任何更改
+OPTION_UPDATE_CHECK=检查 Insider-Preview 更新
+OPTION_CHANGE_LANG=更改语言
+PROMPT=请输入您的选择：
+CHECKING_UPDATE=正在检查 Insider-Preview 更新...
+STABLE_BRANCH=您的系统处于稳定分支。
+INSIDER_BRANCH=您的系统处于 Insider 分支
+CURRENT_BUILD=当前版本
+CHANGE_LANG_MENU=选择语言：
+PRESS_ANY_KEY=按任意键退出。
+REBOOT_REQUIRED=完成更改需要重启计算机。
+REBOOT_PROMPT=是否重启计算机？ (Y/N) 

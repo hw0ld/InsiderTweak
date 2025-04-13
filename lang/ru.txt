@@ -1,0 +1,16 @@
+TITLE=InsiderTweak
+WIN_VERSION_INCOMPATIBLE=Скрипт совместим только с Windows 10 версии 1809 и выше
+ADMIN_RIGHTS_REQUIRED=Для работы скрипта требуются права администратора.
+OPTION_STOP=Прекратить получение сборок Windows Insider
+OPTION_QUIT=Выйти без внесения изменений
+OPTION_UPDATE_CHECK=Проверка обновлений Insider-Preview
+OPTION_CHANGE_LANG=Сменить язык
+PROMPT=Введите ваш выбор:
+CHECKING_UPDATE=Проверка обновлений Insider-Preview...
+STABLE_BRANCH=Ваша система находится на Stable ветке.
+INSIDER_BRANCH=Ваша система находится на Insider ветке
+CURRENT_BUILD=Текущая сборка
+CHANGE_LANG_MENU=Выберите язык:
+PRESS_ANY_KEY=Нажмите любую клавишу для выхода.
+REBOOT_REQUIRED=Для применения изменений требуется перезагрузка.
+REBOOT_PROMPT=Перезагрузить компьютер? (Y/N) 

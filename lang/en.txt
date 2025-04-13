@@ -1,0 +1,16 @@
+TITLE=InsiderTweak
+WIN_VERSION_INCOMPATIBLE=The script is compatible only with Windows 10 v1809 and later
+ADMIN_RIGHTS_REQUIRED=This script needs to be executed as an administrator.
+OPTION_STOP=Stop receiving Windows Insider builds
+OPTION_QUIT=Quit without making any changes
+OPTION_UPDATE_CHECK=Check Insider Preview Updates
+OPTION_CHANGE_LANG=Change Language
+PROMPT=Enter your choice:
+CHECKING_UPDATE=Checking for Insider-Preview updates...
+STABLE_BRANCH=Your system is on the Stable branch.
+INSIDER_BRANCH=Your system is on the Insider branch
+CURRENT_BUILD=Current Build
+CHANGE_LANG_MENU=Select a language:
+PRESS_ANY_KEY=Press any key to exit.
+REBOOT_REQUIRED=A reboot is required to finish applying changes.
+REBOOT_PROMPT=Would you like to reboot your PC? (Y/N) 
